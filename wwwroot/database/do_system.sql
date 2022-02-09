@@ -61,7 +61,7 @@ CREATE TABLE `server_infos` (
 --
 
 INSERT INTO `server_infos` (`ID`, `REGION`, `SHORTCUT`, `NAME`, `SERVER_IP`, `DB_NAME`, `OPEN`, `XMAS`, `ONLINE_PLAYERS`) VALUES
-(1, 'Europe', 'GE1', 'Global Europe 1', '127.0.0.1', 'do_server_ge1', 1, 0, 0);
+(1, 'Europe', 'GE1', 'Global Europe 1', '194.163.187.15', 'do_server_ge1', 1, 0, 0);
 
 -- --------------------------------------------------------
 

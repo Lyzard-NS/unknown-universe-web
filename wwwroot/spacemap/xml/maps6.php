@@ -1,6 +1,6 @@
 <maps>
     <map id="1" name="1-1" music="0">
-        <gameserverIP>127.0.0.1</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <neighbours>2</neighbours>
         <starfield>true</starfield>
         <backgrounds>
@@ -15,7 +15,7 @@
         </planets>
     </map>
     <map id="2" name="1-2" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <neighbours>1,3,4,16</neighbours>
         <starfield>true</starfield>
         <backgrounds>
@@ -31,7 +31,7 @@
         </planets>
     </map>
     <map id="3" name="1-3" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="3" layer="0"/>
@@ -44,7 +44,7 @@
         </planets>
     </map>
     <map id="4" name="1-4" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="4" layer="0"/>
@@ -58,7 +58,7 @@
         </planets>
     </map>
     <map id="5" name="2-1" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="5" layer="0"/>
@@ -74,7 +74,7 @@
         </planets>
     </map>
     <map id="6" name="2-2" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="6" layer="0"/>
@@ -90,7 +90,7 @@
         </planets>
     </map>
     <map id="7" name="2-3" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="7" layer="0"/>
@@ -105,7 +105,7 @@
         </planets>
     </map>
     <map id="8" name="2-4" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="8" layer="0"/>
@@ -119,7 +119,7 @@
         </planets>
     </map>
     <map id="9" name="3-1" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="9" pFactor="10" layer="0"/>
@@ -135,35 +135,35 @@
         </planets>
     </map>
     <map id="10" name="3-2" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="10"/>
         </backgrounds>
     </map>
     <map id="11" name="3-3" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="11"/>
         </backgrounds>
     </map>
     <map id="12" name="3-4" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="12"/>
         </backgrounds>
     </map>
     <map id="13" name="4-1" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="13"/>
         </backgrounds>
     </map>
     <map id="14" name="4-2" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="14" layer="0"/>
@@ -178,7 +178,7 @@
         </planets>
     </map>
     <map id="15" name="4-3" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="15" layer="0"/>
@@ -192,14 +192,14 @@
         </planets>
     </map>
     <map id="16" name="4-4" scaleFactor="2" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="16"/>
         </backgrounds>
     </map>
     <map id="17" name="1-5" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="17" layer="0"/>
@@ -208,42 +208,42 @@
 
     </map>
     <map id="18" name="1-6" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="18"/>
         </backgrounds>
     </map>
     <map id="19" name="1-7" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="19"/>
         </backgrounds>
     </map>
     <map id="20" name="1-8" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="20"/>
         </backgrounds>
     </map>
     <map id="21" name="2-5" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="21"/>
         </backgrounds>
     </map>
     <map id="22" name="2-6" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="22"/>
         </backgrounds>
     </map>
     <map id="23" name="2-7" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="23"/>
@@ -253,7 +253,7 @@
         </lensflares>
     </map>
     <map id="24" name="2-8" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="24"/>
@@ -263,7 +263,7 @@
         </lensflares>
     </map>
     <map id="25" name="3-5" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="25"/>
@@ -273,7 +273,7 @@
         </lensflares>
     </map>
     <map id="26" name="3-6" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="26"/>
@@ -283,14 +283,14 @@
         </lensflares>
     </map>
     <map id="27" name="3-7" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="27"/>
         </backgrounds>
     </map>
     <map id="28" name="3-8" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="28"/>
@@ -301,7 +301,7 @@
         </lensflares>
     </map>
     <map id="29" name="4-5" scaleFactor="2" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="29" layer="0"/>
@@ -313,14 +313,14 @@
         </planets>
     </map>
     <map id="42" name="'''" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="51" name="GG a" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="51" layer="0"/>
@@ -334,7 +334,7 @@
         </planets>
     </map>
     <map id="52" name="GG " music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="52" layer="0"/>
@@ -348,7 +348,7 @@
         </planets>
     </map>
     <map id="53" name="GG '" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="53" layer="0"/>
@@ -361,7 +361,7 @@
         </planets>
     </map>
     <map id="54" name="GG NC" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="54" layer="0"/>
@@ -374,7 +374,7 @@
         </planets>
     </map>
     <map id="55" name="GG d" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="55" layer="0"/>
@@ -387,7 +387,7 @@
         </planets>
     </map>
     <map id="56" name="Galaxy Gate 6" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="56" layer="0"/>
@@ -400,7 +400,7 @@
         </planets>
     </map>
     <map id="57" name="GG Y5" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="2001" pFactor="10" layer="0" hideLensflare="false" scale="2.0"/>
@@ -425,7 +425,7 @@
         </planets>
     </map>
     <map id="58" name="HSG" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="2001" pFactor="10" layer="0" hideLensflare="false" scale="2.0"/>
@@ -440,7 +440,7 @@
         </lensflares>
     </map>
     <map id="61" name="Invasion" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="61" layer="0"/>
@@ -456,7 +456,7 @@
         </lensflares>
     </map>
     <map id="62" name="Invasion" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="62" layer="0"/>
@@ -472,7 +472,7 @@
         </lensflares>
     </map>
     <map id="63" name="Invasion" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="63" layer="0"/>
@@ -488,7 +488,7 @@
         </lensflares>
     </map>
     <map id="64" name="Invasion" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="64" layer="0"/>
@@ -504,7 +504,7 @@
         </lensflares>
     </map>
     <map id="65" name="Invasion" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="65" layer="0"/>
@@ -520,7 +520,7 @@
         </lensflares>
     </map>
     <map id="66" name="Invasion" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="66" layer="0"/>
@@ -536,7 +536,7 @@
         </lensflares>
     </map>
     <map id="67" name="Invasion" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="67" layer="0"/>
@@ -552,7 +552,7 @@
         </lensflares>
     </map>
     <map id="68" name="Invasion" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="68" layer="0"/>
@@ -568,7 +568,7 @@
         </lensflares>
     </map>
     <map id="69" name="Invasion" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="69" layer="0"/>
@@ -584,7 +584,7 @@
         </lensflares>
     </map>
     <map id="70" name="GG Epsilon" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="2001" pFactor="10" layer="0" hideLensflare="false" scale="2.0"/>
@@ -608,7 +608,7 @@
         </planets>
     </map>
     <map id="71" name="GG Zeta 1" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="2001" pFactor="10" layer="0" hideLensflare="false" scale="2.0"/>
@@ -648,7 +648,7 @@
         </planets>
     </map>
     <map id="72" name="GG Zeta 2" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="2001" pFactor="10" layer="0" hideLensflare="false" scale="2.0"/>
@@ -674,7 +674,7 @@
         </planets>
     </map>
     <map id="73" name="GG Zeta 3" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="2001" pFactor="10" layer="0" hideLensflare="false" scale="2.0"/>
@@ -696,7 +696,7 @@
         </planets>
     </map>
     <map id="74" name="GG Kappa" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield color="0xc99f">true</starfield>
         <backgrounds>
             <background typeID="2001" pFactor="10" layer="0" hideLensflare="false" scale="1.6"/>
@@ -714,7 +714,7 @@
         </planets>
     </map>
     <map id="75" name="GG Lambda" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="2001" pFactor="10" layer="0" hideLensflare="false" scale="1.9"/>
@@ -733,21 +733,21 @@
         </planets>
     </map>
     <map id="81" name="TDM I" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="81"/>
         </backgrounds>
     </map>
     <map id="82" name="TDM II>" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="82"/>
         </backgrounds>
     </map>
     <map id="91" name="5-1" scaleFactor="2" music="0">
-        <gameserverIP>62.146.190.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <minimap typeID="91"/>
         <backgrounds>
@@ -769,7 +769,7 @@
         </planets>
     </map>
     <map id="92" name="5-2" music="0">
-        <gameserverIP>62.146.190.102</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield color="0x333333">true</starfield>
         <backgrounds>
             <background typeID="2001" pFactor="10" layer="0" hideLensflare="false" scale="2.2" maskID="4"/>
@@ -790,7 +790,7 @@
         </planets>
     </map>
     <map id="93" name="5-3" scaleFactor="2" music="0">
-        <gameserverIP>62.146.187.252</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield color="0xE3E3E3">true</starfield>
         <minimap typeID="93"/>
         <backgrounds>
@@ -811,189 +811,189 @@
         </planets>
     </map>
     <map id="101" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.190.218</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="102" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.190.218</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="103" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.187.35</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="104" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.179</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="105" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="106" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.186</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="107" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.187.100</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="108" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.187.101</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="109" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.185</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="110" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.190.56</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="111" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.190.220</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="112" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.190.218</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="113" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.186</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="114" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.190.220</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="115" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.180</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="116" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.187.36</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="117" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.187.35</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="118" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.184</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="119" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.190.41</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="120" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.191</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="121" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.190.42</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="122" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.179</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="123" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.187.36</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="124" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.182</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="125" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.190.63</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="126" name="JP" scaleFactor="1" music="0">
-        <gameserverIP>62.146.191.181</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="42"/>
         </backgrounds>
     </map>
     <map id="200" name="Lord of War" music="0">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <starfield>true</starfield>
         <backgrounds>
             <background typeID="200" layer="0" isMain="true"/>
@@ -1003,7 +1003,7 @@
         </backgrounds>
     </map>
     <map id="255" name="0-1" music="0" scaleFactor="0.5">
-        <gameserverIP>62.146.190.124</gameserverIP>
+        <gameserverIP>194.163.187.15</gameserverIP>
         <neighbours></neighbours>
         <starfield>true</starfield>
         <minimap typeID="255"/>

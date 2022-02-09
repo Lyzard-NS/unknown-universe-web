@@ -12,7 +12,7 @@ include("../../core/core.php");
 
 }
 */
-$server = "127.0.0.1";
+$server = "194.163.187.15";
 header('Content-type: text/xml');
 ?>
 <maps>

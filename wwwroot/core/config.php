@@ -5,7 +5,7 @@ define("MYSQL_DB_NAME", "do_system");
 define("MYSQL_USER", "root");
 define("MYSQL_PW", "");
 
-define('HTTP_HOST', 'dev.univ3rse.com');
+define('HTTP_HOST', '194.163.187.15');
 
 //Advanced Options
 define("ALLOWED_CHARS", [".", "-", "_", ">", "<"]);
@@ -18,7 +18,7 @@ define("CAN_CHANGE_USERNAME", false);
 
 //Session Related
 define('COOKIE_PATH', '/');
-define('COOKIE_DOMAIN', '.dev.univ3rse.com');
+define('COOKIE_DOMAIN', '.194.163.187.15');
 
 //Allowed UserImage Types
 define("USER_IMAGE_STORAGE", PROJECT_DOCUMENT_ROOT . 'upload');
