@@ -29,8 +29,8 @@ RUN sed -i.bak s'/#Include etc\/extra\/httpd-vhosts.conf/Include etc\/extra\/htt
 
 # Enable remote access to MariaDB
 RUN echo '[mysqld]\nskip-networking=0\nskip-bind-address' >> /opt/lampp/etc/my.cnf
-RUN chmod +x /crt/gen_cert.sh
-RUN bash -c './crt/gen_cert.sh'
+RUN chmod +x xamppy/crt/gen_cert.sh
+RUN bash -c 'xamppy/crt/gen_cert.sh'
 # Enable SSL
 RUN mkdir -p /opt/lampp/crt/194.163.187.15
 COPY crt/server.pem /opt/lampp/crt/194.163.187.15/server.pem
