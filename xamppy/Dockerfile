@@ -29,11 +29,11 @@ RUN sed -i.bak s'/#Include etc\/extra\/httpd-vhosts.conf/Include etc\/extra\/htt
 
 # Enable remote access to MariaDB
 RUN echo '[mysqld]\nskip-networking=0\nskip-bind-address' >> /opt/lampp/etc/my.cnf
-
+RUN ./crt/gen_cert.sh
 # Enable SSL
-RUN mkdir -p /opt/lampp/crt/dev.univ3rse.com
-COPY crt/server.pem /opt/lampp/crt/dev.univ3rse.com/server.pem
-COPY crt/server.key /opt/lampp/crt/dev.univ3rse.com/server.key
+RUN mkdir -p /opt/lampp/crt/194.163.187.15
+COPY crt/server.pem /opt/lampp/crt/194.163.187.15/server.pem
+COPY crt/server.key /opt/lampp/crt/194.163.187.15/server.key
 
 # Create virtual hosts
 RUN rm /opt/lampp/etc/extra/httpd-vhosts.conf
