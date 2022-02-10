@@ -9,7 +9,7 @@
     <meta name="keywords" content="" />
     <meta name="robots" content="index, follow" />
     <meta name="language" content="EN" />
-    <meta name="reply-to" content="support@univ3rse.com">
+    <meta name="reply-to" content="support@194.163.187.15">
     <link rel="icon" href="<?= PROJECT_HTTP_ROOT ?>resources/images/favicon.ico" type="image/x-icon" />
     <link rel="shortcut icon" href="<?= PROJECT_HTTP_ROOT ?>resources/images/favicon.ico" type="image/x-icon" />
     <title><?= WEBSITE_TITLE ?></title>

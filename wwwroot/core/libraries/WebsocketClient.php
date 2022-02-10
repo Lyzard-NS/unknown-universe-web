@@ -72,6 +72,6 @@ class WebsocketClient {
 
 }
 
-$WebSocketClient = new WebsocketClient('play.univ3rse.com', 8887);
+$WebSocketClient = new WebsocketClient('194.163.187.15', 8887);
 echo $WebSocketClient->sendData("MyUserNameFromPHP");
 unset($WebSocketClient);

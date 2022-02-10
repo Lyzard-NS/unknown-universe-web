@@ -79,9 +79,9 @@
             ?>
             flashembed("page-container",
                 {
-                    "src": "http://play.univ3rse.com/newclient/spacemap/preloader.swf",
+                    "src": "http://194.163.187.15/newclient/spacemap/preloader.swf",
                     "version": [11, 0],
-                    "expressInstall": "http://play.univ3rse.com/newclient/swf_global/expressInstall.swf",
+                    "expressInstall": "http://194.163.187.15/newclient/swf_global/expressInstall.swf",
                     "width": w,
                     "height": h,
                     "wmode": "direct",
@@ -100,9 +100,9 @@
 					"helpLink": "",
 					"loadingClaim": "Loading New Client",
 					"chatHost": "<?=PROJECT_WEB_IP?>",
-					"cdn": "http://play.univ3rse.com/newclient/",
+					"cdn": "http://194.163.187.15/newclient/",
 					"useHash": "1",
-					"host": "play.univ3rse.com",
+					"host": "194.163.187.15",
 					"browser": "Chrome",
 					"fullscreen": "1",
 					"gameXmlHash": "",

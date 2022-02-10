@@ -23,4 +23,4 @@ define('PROJECT_PROTOCOL', $protocol);
 //PROJECT Pfad (für die Verwendung im Web)
 define('PROJECT_HTTP_ROOT', $protocol . $_SERVER['HTTP_HOST'] . $project);
 
-define('PROJECT_WEB_IP', '194.163.187.15');
+define('PROJECT_WEB_IP', 'applecraft.eu');

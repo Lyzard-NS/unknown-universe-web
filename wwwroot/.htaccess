@@ -41,7 +41,7 @@ Options +FollowSymLinks -MultiViews
 RewriteEngine on
 RewriteBase /
 
-RewriteCond %{HTTP_HOST} forum.univ3rse.com$
+RewriteCond %{HTTP_HOST} forum.applecraft.eu$
 RewriteCond %{REQUEST_URI} !^/forum/
 RewriteRule ^(.*)$ /forum/$1 [L]
 
